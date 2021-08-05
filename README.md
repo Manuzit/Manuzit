@@ -1,5 +1,7 @@
 <h1>彡🍨♡🧸⁺˚࿐ Olá, eu sou Manoela Simões ♡💐*🩰 ˊᵕˋ)੭.°♡</h1>
 
+  	
+
 <div>
   <a href="https://github.com/Manuzit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuzit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -38,19 +40,17 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  
   
-  <h2> Linguagens que pretendo aprender: <h2>
-   
+  <h2> Linguagens que pretendo aprender: </h2>
+  
+<div>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    
-  
-	<h3>
-		🚧 Perfil em reforma. Não ligue para a bagunça :) 🚧
-		<h3>
+ </div>   
+
 	
-	
+<h2> 🚧 Perfil em reforma. Não ligue para a bagunça :) 🚧</h2>
 	
