@@ -54,3 +54,5 @@
 	
 <h2> 🚧 Perfil em reforma. Não ligue para a bagunça :) 🚧</h2>
 	
+<p> Profile picture - artist info: twt: @cherrybeez_ insta: @cherrybeez_ tumblr: @cherrybeez </p>
+	
