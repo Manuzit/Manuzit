@@ -9,7 +9,7 @@
 </div>
 
 
-<img align="left" alt="unicorn" src="https://media.giphy.com/media/901ojwtVHZAze/giphy.gif" width="230" height="230" frameBorder="0" class="giphy-embed">
+<img align="left" alt="unicorn" src="https://media.giphy.com/media/901ojwtVHZAze/giphy.gif" frameBorder="0" class="giphy-embed">
   
 
 	
