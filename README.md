@@ -9,9 +9,11 @@
 </div>
  
   <img align="left" alt="unicorn" src="https://media.giphy.com/media/yfj94YWY3umHcTn5IC/giphy.gif" width="230" height="230" frameBorder="0" class="giphy-embed">
+	
+	  <img align="left" alt="unicorn" src="https://media3.giphy.com/media/901ojwtVHZAze/giphy.gif?cid=790b76116fc85e49934455c0e35b95bc12a079a9f94ad3d6&rid=giphy.gif&ct=g" width="230" height="230" frameBorder="0" class="giphy-embed">
   
- 
-	<iframe src="https://giphy.com/embed/901ojwtVHZAze" width="480" height="161" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/video-game-fast-901ojwtVHZAze">via GIPHY</a></p>
+
+	
 	
 <h2> 🚧 Perfil em reforma. Não ligue para a bagunça :) 🚧</h2>
 	
