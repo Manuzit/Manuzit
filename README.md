@@ -1,4 +1,4 @@
-<h1> Olá, eu sou Manoela ♡ </h1>
+<h3> Olá, eu sou Manoela ♡ </<h3>
 
 
 
@@ -16,11 +16,7 @@
 
 <img align="left" alt="unicorn" src="https://media.giphy.com/media/ONGUmqZCalAKO8PH7C/giphy.gif" frameBorder="0" class="giphy-embed">
 	
-<img align="left" alt="unicorn" src="https://media.giphy.com/media/6Bvc7DWoZ1lZu/giphy.gif" frameBorder="0" class="giphy-embed">
+<img align="left" alt="unicorn" src="https://media.giphy.com/media/6Bvc7DWoZ1lZu/giphy.<h3 frameBorder="0" class="giphy-embed">
 	
 
-	
-	
-<h2> 🚧 Perfil em reforma. Não ligue para a bagunça :) 🚧</h2>
-	
 	
