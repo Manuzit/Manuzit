@@ -12,10 +12,17 @@
 </div>
 
 &nbsp;
-	
+
+<div>
+  <a href="https://github.com/Manuzit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuzit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+&nbsp;
+
 <div>	
-<img height= 180px widht=180px src="https://i.pinimg.com/originals/d4/81/ad/d481ad3029497cb33cf6f580a701615b.gif"/>
-<img height= 180px widht=400px src="https://i.pinimg.com/originals/c2/6d/aa/c26daa2ae4020e5ae62e841896b09fad.gif"/>
+<img height= 210px widht=210px src="https://i.pinimg.com/originals/d4/81/ad/d481ad3029497cb33cf6f580a701615b.gif"/>
+<img height= 210px widht=400px src="https://i.pinimg.com/originals/c2/6d/aa/c26daa2ae4020e5ae62e841896b09fad.gif"/>
 </div>
 
 &nbsp;
@@ -25,11 +32,6 @@
 
 &nbsp;
 &nbsp;
-<div>
-  <a href="https://github.com/Manuzit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuzit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo ex eu rutrum mattis. Etiam ullamcorper at nunc ut pulvinar. Cras ultrices, ipsum convallis feugiat mattis, risus neque porta urna, nec dictum velit velit non turpis.</p>
-
+&nbsp;
+	
 
