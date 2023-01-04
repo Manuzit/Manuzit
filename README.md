@@ -1,4 +1,3 @@
-&nbsp;
 
 ~~~
 ~~~ 
@@ -91,7 +90,16 @@
 &nbsp;
   
 &nbsp;
-  
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6sq2o3mmkyz7gnyc8hec49uqr&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=8ac1d4&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
 &nbsp;
+
  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Manuzit&bg_color=1c2026&color=99bbd9&line=99bbd9&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+&nbsp;
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99bbd9&size=50center=true&vCenter=true&width=1000&lines=Bye,+Bye!+:%29)](https://gits.io/typing-svg)
