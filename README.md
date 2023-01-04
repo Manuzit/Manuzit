@@ -1,7 +1,3 @@
-
-# 𝐇 𝐢 ㅤ𝐭 𝐡 𝐞 𝐫 𝐞 ♞
-### 𝐈' 𝐦ㅤ 𝐌 𝐚 𝐧 𝐨 𝐞 𝐥 𝐚
-
 &nbsp;
 
 ~~~
@@ -9,7 +5,13 @@
 
 &nbsp;
 
-<img style="margin: 30px;" align="left" width="320px" src="https://media.giphy.com/media/X5bG0yJwIymit02pwA/giphy.gif" frameBorder="0">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90ee90&size=38center=true&vCenter=true&width=1000&lines=Olá,+terráqueo!;Meu+nome+é+Manoela+Simões+^^~;Tenho+16+anos:%29)](https://gits.io/typing-svg)
+
+&nbsp;
+
+
+
+<img style="margin: 30px;" align="left" width="320px" src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif" frameBorder="0">
 
 
 
@@ -82,17 +84,9 @@
 
   
 &nbsp;
- 
-&nbsp;
-
- 
-<img style="margin: 30px;" align="center" width="880px" src="https://2.bp.blogspot.com/-mfjOcOa5TdQ/WPaOjxJEv5I/AAAAAAAAaFY/GobThAumGiY2CDKiTGNrXBM8SHpfDzzigCLcB/s640/terminator.gif" frameBorder="0">
-
- 
+  
 &nbsp;
   
 &nbsp;
  
-  
-~~~
-~~~
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Manuzit&bg_color=1c2026&color=99bbd9&line=99bbd9&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
