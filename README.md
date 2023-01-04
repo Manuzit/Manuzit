@@ -5,9 +5,13 @@
 
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90ee90&size=38center=true&vCenter=true&width=1000&lines=Olá,+terráqueo!;Meu+nome+é+Manoela+Simões+^^~;Tenho+16+anos:%29)](https://gits.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c3da89&size=38center=true&vCenter=true&width=1000&lines=Olá,+terráqueo!;Meu+nome+é+Manoela+Simões,+tenho+16+anos;e+moro+em+São+Paulo+SP+<3+:%29)](https://gits.io/typing-svg)
 
 &nbsp;
+
+
+
+
 
 
 
@@ -61,7 +65,8 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuzit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuzit&langs_count=8)](https://github.com/Manuzit/github-readme-stats)
+
 <div>	
 <h5> Ｕｍ  ｔｅｑｕｉｎｈｏ  ｍａｉｓ </h5>
 
