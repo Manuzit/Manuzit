@@ -17,6 +17,8 @@
 
 ### Ｓｏｂｒｅ ｍｉｍ
 
+&nbsp;
+
 ***Olá, terráqueo! Meu nome é Manoela, tenho 16 anos e moro em São Paulo - SP***
 
 *Sou estudante de Administração do NOVOTEC no Centro Paula Souza, atualmente me preparando para o vestibular e descobrindo cada vez mais o mundo da programação. Desenvolvendo projetos com:*
@@ -82,7 +84,7 @@
 &nbsp;
 
  
-<img style="margin: 30px;" align="center" width="580px" src="https://2.bp.blogspot.com/-mfjOcOa5TdQ/WPaOjxJEv5I/AAAAAAAAaFY/GobThAumGiY2CDKiTGNrXBM8SHpfDzzigCLcB/s640/terminator.gif" frameBorder="0">
+<img style="margin: 30px;" align="center" width="880px" src="https://2.bp.blogspot.com/-mfjOcOa5TdQ/WPaOjxJEv5I/AAAAAAAAaFY/GobThAumGiY2CDKiTGNrXBM8SHpfDzzigCLcB/s640/terminator.gif" frameBorder="0">
 
  
 &nbsp;
