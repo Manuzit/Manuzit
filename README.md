@@ -9,24 +9,16 @@
 &nbsp;
 
 
-
-
-
-
-
 <img style="margin: 30px;" align="left" width="320px" src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif" frameBorder="0">
-
-
-
 
 
 ### Ｓｏｂｒｅ  ｍｉｍ
 
 &nbsp;
 
-***Olá, terráqueo! Meu nome é Manoela, tenho 16 anos e moro em São Paulo - SP***
-
-*Sou estudante de Administração do NOVOTEC no Centro Paula Souza, atualmente me preparando para o vestibular e descobrindo cada vez mais o mundo da programação. Desenvolvendo projetos com:*
+*Sou estudante de Administração do NOVOTEC no Centro Paula Souza,  
+atualmente me preparando para o vestibular e descobrindo cada vez   
+mais o mundo da programação. Desenvolvendo projetos com:*
  
  `HTML`
  ★
@@ -44,13 +36,12 @@
  
 &nbsp;
 
-
 &nbsp;
 
 ##### Ｕｍ  ｔｅｑｕｉｎｈｏ  ｍａｉｓ
 
 
-+ Fazendo o curso de Harvard [desde dezembro de 2022] 💥
++ Fazendo curso de Harvard [desde dezembro de 2022] 💥
 + Futura desenvolvedora web 🖥️
 + Amante da fotografia 📸
 + Designer e escritora nas horas vagas ✒️ 💡
@@ -59,11 +50,7 @@
 
 &nbsp;
 
-<div>
-  <a href="https://github.com/Manuzit">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuzit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+<a href="https://github.com/Manuzit"> <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuzit&theme=dark&show_icons=true"/>
 
 <div>	
 <h5> Ｕｍ  ｔｅｑｕｉｎｈｏ  ｍａｉｓ </h5>
@@ -77,28 +64,28 @@
 &nbsp; 
  
 &nbsp;
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Manuzit&bg_color=1c2026&color=99bbd9&line=99bbd9&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+&nbsp;
  
 &nbsp;
  
-
 > We’re here to put a dent in the universe. Otherwise why else even be here?
 
 **Steve Jobs**
-
-  
-&nbsp;
   
 &nbsp;
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6sq2o3mmkyz7gnyc8hec49uqr&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=8ac1d4&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-
 &nbsp;
-
  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Manuzit&bg_color=1c2026&color=99bbd9&line=99bbd9&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 &nbsp;
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99bbd9&size=50center=true&vCenter=true&width=1000&lines=Bye,+Bye!+:%29)](https://gits.io/typing-svg)
+ 
+&nbsp;
+ 
+~~~
+~~~ 
