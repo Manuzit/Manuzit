@@ -4,12 +4,12 @@
 
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99bbd9&size=38center=true&vCenter=true&width=1000&lines=Olá,+terráqueo!;Meu+nome+é+Manoela+Simões,+tenho+17+anos;e+moro+em+São+Paulo+SP+<3+:%29)](https://gits.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffb8c6&size=38center=true&vCenter=true&width=1000&lines=Olá,+terráqueo!;Meu+nome+é+Manoela+Simões,+tenho+17+anos;e+moro+em+São+Paulo+SP+<3+:%29)](https://gits.io/typing-svg)
 
 &nbsp;
 
 
-<img style="margin: 30px;" align="left" width="320px" src="https://media.giphy.com/media/xT8qB5qHdt8odL797i/giphy.gif" frameBorder="0">
+<img style="margin: 30px;" align="left" width="320px" src="https://media.giphy.com/media/uL23EgTN7oEweMVy7R/giphy.gif" frameBorder="0">
 
 
 ## Ｓｏｂｒｅ  ｍｉｍ
@@ -62,6 +62,8 @@ da programação. Desenvolvendo projetos com:*
  
 </div>
 
+<img style="margin: 30px;" align="left" width="320px" src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" frameBorder="0">
+
 &nbsp; 
 
 &nbsp;
@@ -72,18 +74,14 @@ da programação. Desenvolvendo projetos com:*
 
 **Steve Jobs**
   
-&nbsp;
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuzit&theme=dark)](https://github.com/Manuzit/github-readme-stats)
 
 &nbsp;
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffdb58&size=50center=true&vCenter=true&width=1000&lines=Bye,+Bye!+:%29)](https://gits.io/typing-svg)
  
+&nbsp;
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99bbd9&size=50center=true&vCenter=true&width=1000&lines=Bye,+Bye!+:%29)](https://gits.io/typing-svg)
- 
-&nbsp;
- 
- 
+
 ~~~
 ~~~ 
