@@ -9,7 +9,7 @@
 &nbsp;
 
 
-<img style="margin: 30px;" align="left" width="320px" src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif" frameBorder="0">
+<img style="margin: 30px;" align="left" width="320px" src="https://media.giphy.com/media/xT8qB5qHdt8odL797i/giphy.gif" frameBorder="0">
 
 
 ## Ｓｏｂｒｅ  ｍｉｍ
