@@ -4,7 +4,7 @@
 
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c3da89&size=38center=true&vCenter=true&width=1000&lines=Olá,+terráqueo!;Meu+nome+é+Manoela+Simões,+tenho+16+anos;e+moro+em+São+Paulo+SP+<3+:%29)](https://gits.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99bbd9&size=38center=true&vCenter=true&width=1000&lines=Olá,+terráqueo!;Meu+nome+é+Manoela+Simões,+tenho+17+anos;e+moro+em+São+Paulo+SP+<3+:%29)](https://gits.io/typing-svg)
 
 &nbsp;
 
@@ -45,9 +45,7 @@ da programação. Desenvolvendo projetos com:*
   #### Ｕｍ  ｔｅｑｕｉｎｈｏ  ｍａｉｓ
 
 
-+ Fazendo curso de Harvard [desde dezembro de 2022] 💥
-+ Futura desenvolvedora web 🖥️
-+ Amante da fotografia 📸
++ Fazendo curso de Harvard [desde dezembro de 2023] 💥
 + Designer e escritora nas horas vagas ✒️ 💡
 + Música para os meus ouvidos 🎧
 
@@ -60,16 +58,11 @@ da programação. Desenvolvendo projetos com:*
 <h5> Ｕｍ  ｔｅｑｕｉｎｈｏ  + </h5>
 
 - [x] Curso de programação com a reprograma (2021) 
-- [ ] Curso de Ciência da computação online (Harvard 2022-2023) 
-- [ ] Portfólio com projetos (em desenvolvimento 2022-2023)
+- [ ] Curso de Ciência da computação online (Harvard 2023-2024) 
  
 </div>
 
 &nbsp; 
- 
-&nbsp;
-
-  [![Manoela's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Manuzit&bg_color=1c2026&color=99bbd9&line=99bbd9&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 &nbsp;
  
